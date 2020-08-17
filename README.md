@@ -20,11 +20,14 @@ de dois arrays A e B, os dois tipos de queries que podem ser executadas são as 
 Você deverá criar um algoritmo capaz de executar as queries que serão dadas e retornar um array de resultados. Você deverá implementar uma função que, ao ser 
 chamada passando os arrays A e B e a query, retorne um array de resultados como exemplificado abaixo:
 
-###Exemplo 1:###
+  **Exemplo 1:**
 
-  **a[1, 2, 3]**
-  **b[3, 4]**
-  **query [ [1,5], [0,0,1], [1,5] ]**
+  a[1, 2, 3]
+  
+  b[3, 4]
+  
+  query [ [1,5], [0,0,1], [1,5] ]
+  
   **resultado final: processaQuery(a, b, query) = [2,1]**
 
 ##  Testes ##
