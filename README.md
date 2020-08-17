@@ -83,6 +83,6 @@ chamada passando os arrays A e B e a query, retorne um array de resultados como 
 ## Resultado ##
 
   Para alcançar os objetivos do teste proposto, foi desenvolvida uma função na linguagem Java, utilizando estruturas de lógica de progamação, como loops e clausulas condicionais.
-Essa função recebe três parâmetros, sendo dois arrays/listas de números inteiros, e um array/lista de arrays onde são esperadas as queries.
+Essa função recebe três parâmetros, sendo dois arrays/listas de números inteiros, e um array/lista de arrays onde é esperado as queries.
 
   Foram realizados os cinco testes propostos na seção anterior, nos quais a função obteve sucesso, inclusive atendendo ao requisito de tempo proposto para execução, sendo assim em menos de 5 segundos.
